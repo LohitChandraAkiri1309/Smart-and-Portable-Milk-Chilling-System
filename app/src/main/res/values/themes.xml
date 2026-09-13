@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.MilkChillingIoT" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/brand_cyan</item>
+        <item name="colorSecondary">@color/brand_navy</item>
+        <item name="android:statusBarColor">@color/brand_navy</item>
+        <item name="android:windowBackground">@color/brand_navy</item>
+    </style>
+</resources>
